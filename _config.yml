@@ -1,5 +1,5 @@
 # Site settings
-title: Acua
+title: sunsetrestaurante
 email: Acua@acuabar.com
 description: >- 
   Acua Baja Bar & Mar
@@ -7,7 +7,7 @@ description: >-
   Clientes contentos siempre.
 
 baseurl: ""
-url: "https://acuabar.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sunsetrestaurante.com/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-162867542-4
 lang: en_us
 
