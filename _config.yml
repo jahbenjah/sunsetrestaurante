@@ -52,9 +52,9 @@ defaults:
       lang: "en_us"
       lazy: true
       image:
-        path: /assets/img/acua/og512x512.png
-        height: 512
-        width: 512
+        path: 
+        height: 
+        width: 
 
 
 
