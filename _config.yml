@@ -25,6 +25,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
+encoding: utf-8 
 
 # Exclude from processing.
 exclude:
