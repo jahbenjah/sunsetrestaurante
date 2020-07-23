@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #23B7D1;
+  color: #e27f3d;
 }
 
 a:hover {
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: linear-gradient(45deg, whitesmoke, #23B7D1);
+  background: linear-gradient(45deg, whitesmoke, #e27f3d);
 }
 
 #preloader:before {
@@ -47,8 +47,8 @@ h1, h2, h3, h4, h5, h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid whitesmoke;
-  border-top-color: #23B7D1;
-  border-bottom-color: #23B7D1;
+  border-top-color: #e27f3d;
+  border-bottom-color: #e27f3d;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -93,13 +93,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 44px;
   height: 44px;
   border-radius: 50px;
-  color: #23B7D1;
+  color: #e27f3d;
   transition: all 0.4s;
   border: 2px solid whitesmoke;
 }
 
 .back-to-top i:hover {
-  background: #23B7D1;
+  background: #e27f3d;
   color: #1a1814;
 }
 
@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .contact-info {
-  color: #23B7D1;
+  color: #e27f3d;
 }
 
 #topbar .contact-info i {
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none;
   padding: 0;
   margin: 0;
-  color:#23B7D1;
+  color:#e27f3d;
 }
 
 #topbar .languages ul a {
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #23B7D1;
+  color: #e27f3d;
   transition: 0.3s;
   font-size: 14px;
   font-family: "Open Sans", ;
@@ -235,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu .book-a-table a {
   border: 2px solid whitesmoke;
-  color: #23B7D1;
+  color: #e27f3d;
   border-radius: 50px;
   padding: 8px 25px;
   text-transform: uppercase;
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .book-a-table a:hover {
-  background: #23B7D1;
+  background: #e27f3d;
   color: whitesmoke;
 }
 
@@ -284,7 +284,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #cda45e;
+  color: #e27f3d;
 }
 
 .nav-menu .drop-down > a:after {
