@@ -1,14 +1,14 @@
 # Site settings
 title: sunsetrestaurante
-email: Acua@acuabar.com
+email: sunset@sunsetrestaurante.com
 description: >- 
-  Acua Baja Bar & Mar
+  Sunset Cocina de Mar
   Restaurante-Bar con un gran ambiente y comida de la mejor calidad.
   Clientes contentos siempre.
 
 baseurl: ""
 url: "http://sunsetrestaurante.com/" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: UA-162867542-4
+google_analytics: UA-162867542-5
 lang: en_us
 
 minima:
@@ -17,8 +17,8 @@ minima:
 social:
   name: Acua
   links:
-    - https://www.facebook.com/acuabajabarymar
-    - https://www.instagram.com/acuabajamar/
+    - https://www.facebook.com/sunsetcocinademar
+    - https://www.instagram.com/sunsetcocinadelmar/
 
 # Build settings
 plugins:
@@ -52,7 +52,7 @@ defaults:
       lang: "en_us"
       lazy: true
       image: 
-        path: /assets/img/Sunset/Logo Sunset.png
+        path: /assets/img/Sunset/og512x512.png
         height: 512
         width: 512
 
