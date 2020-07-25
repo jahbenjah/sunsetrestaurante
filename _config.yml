@@ -51,10 +51,10 @@ defaults:
     values:
       lang: "en_us"
       lazy: true
-      image:
-        path: 
-        height: 
-        width: 
+      image: 
+        path: /assets/img/Sunset/Logo Sunset.png
+        height: 512
+        width: 512
 
 
 
