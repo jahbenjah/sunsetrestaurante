@@ -1,4 +1,4 @@
-# Permitir explorar todo el contenido de la pagina
+# Permitir explorar todo el contenido de la página
 User-agent: *
 Disallow:
 Sitemap: http://sunsetrestaurante.com/sitemap.xml
